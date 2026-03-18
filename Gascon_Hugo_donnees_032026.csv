@@ -1,0 +1,71 @@
+﻿Somme de age_vehicule,Somme de Departement,Somme de valeur_residence_prin,type_conduite,tarif_devis,Pratique_Conduite_Accompagnee,Somme de points_perdus,Somme de ID_Anonyme,formule,Tranches de Revenus,type_vehicule,Presence_Enfants
+2,85,265971,Highly Urban/ Urban,[251-500€],Non,7,2004,dev_express,[0 - 20k€],Pickup,Non
+4,100,208277,Highly Urban/ Urban,[251-500€],Non,15,3332,dev_express,[0 - 20k€],Sports Car,Oui
+25,50,226895,Highly Urban/ Urban,[251-500€],Non,4,2787,dev_express,[0 - 20k€],z_SUV,Non
+11,241,355605,Highly Urban/ Urban,[251-500€],Non,15,7753,dev_express,[0 - 20k€],z_SUV,Oui
+19,122,478295,Highly Urban/ Urban,[251-500€],Non,7,4101,dev_express,[20 - 40k€],Minivan,Non
+26,129,276540,Highly Urban/ Urban,[251-500€],Non,7,5368,dev_express,[20 - 40k€],Panel Truck,Non
+1,16,168463,Highly Urban/ Urban,[251-500€],Non,4,1695,dev_express,[20 - 40k€],Panel Truck,Oui
+11,271,687017,Highly Urban/ Urban,[251-500€],Non,11,4404,dev_express,[20 - 40k€],Pickup,Non
+7,101,275553,Highly Urban/ Urban,[251-500€],Non,5,3846,dev_express,[20 - 40k€],Pickup,Oui
+17,162,310690,Highly Urban/ Urban,[251-500€],Non,8,2240,dev_express,[20 - 40k€],Sports Car,Oui
+5,107,369280,Highly Urban/ Urban,[251-500€],Non,10,6841,dev_express,[20 - 40k€],Van,Non
+22,207,688779,Highly Urban/ Urban,[251-500€],Non,12,5988,dev_express,[20 - 40k€],z_SUV,Non
+25,198,687168,Highly Urban/ Urban,[251-500€],Non,12,6332,dev_express,[20 - 40k€],z_SUV,Oui
+16,171,345012,Highly Urban/ Urban,[251-500€],Non,6,5703,dev_integral,[0 - 20k€],Minivan,Non
+10,67,100773,Highly Urban/ Urban,[251-500€],Non,6,2580,dev_integral,[0 - 20k€],Minivan,Oui
+13,156,353654,Highly Urban/ Urban,[251-500€],Non,3,8507,dev_integral,[0 - 20k€],Pickup,Non
+12,64,92197,Highly Urban/ Urban,[251-500€],Non,2,308,dev_integral,[0 - 20k€],Pickup,Oui
+2,157,169735,Highly Urban/ Urban,[251-500€],Non,3,5328,dev_integral,[0 - 20k€],Sports Car,Non
+6,108,236934,Highly Urban/ Urban,[251-500€],Non,4,3304,dev_integral,[0 - 20k€],z_SUV,Non
+25,246,462515,Highly Urban/ Urban,[251-500€],Non,10,8374,dev_integral,[0 - 20k€],z_SUV,Oui
+33,159,488130,Highly Urban/ Urban,[251-500€],Non,10,5491,dev_integral,[20 - 40k€],Minivan,Non
+6,52,128238,Highly Urban/ Urban,[251-500€],Non,4,2652,dev_integral,[20 - 40k€],Panel Truck,Oui
+20,321,778080,Highly Urban/ Urban,[251-500€],Non,17,10221,dev_integral,[20 - 40k€],Pickup,Non
+18,109,309581,Highly Urban/ Urban,[251-500€],Non,7,4872,dev_integral,[20 - 40k€],Sports Car,Non
+6,33,121949,Highly Urban/ Urban,[251-500€],Non,8,3435,dev_integral,[20 - 40k€],Sports Car,Oui
+9,42,143884,Highly Urban/ Urban,[251-500€],Non,4,368,dev_integral,[20 - 40k€],Van,Oui
+36,343,1054856,Highly Urban/ Urban,[251-500€],Non,16,9206,dev_integral,[20 - 40k€],z_SUV,Non
+8,64,106991,Highly Urban/ Urban,[251-500€],Non,2,3041,dev_premium,[0 - 20k€],Minivan,Non
+8,80,117445,Highly Urban/ Urban,[251-500€],Non,1,2409,dev_premium,[0 - 20k€],Sports Car,Non
+8,71,103951,Highly Urban/ Urban,[251-500€],Non,2,1486,dev_premium,[0 - 20k€],Sports Car,Oui
+1,32,50322,Highly Urban/ Urban,[251-500€],Non,4,2619,dev_premium,[0 - 20k€],z_SUV,Non
+1,72,164877,Highly Urban/ Urban,[251-500€],Non,1,2184,dev_premium,[20 - 40k€],Minivan,Non
+1,80,115381,Highly Urban/ Urban,[251-500€],Non,1,277,dev_premium,[20 - 40k€],Minivan,Oui
+1,80,149500,Highly Urban/ Urban,[251-500€],Non,1,2041,dev_premium,[20 - 40k€],Pickup,Non
+1,35,128411,Highly Urban/ Urban,[251-500€],Non,3,640,dev_premium,[20 - 40k€],Sports Car,Non
+4,60,168058,Highly Urban/ Urban,[251-500€],Non,7,1505,dev_premium,[20 - 40k€],z_SUV,Oui
+1,62,145824,Highly Urban/ Urban,[251-500€],Oui,2,1466,dev_express,[0 - 20k€],z_SUV,Oui
+9,41,132852,Highly Urban/ Urban,[251-500€],Oui,3,3587,dev_express,[20 - 40k€],Pickup,Oui
+1,19,112001,Highly Urban/ Urban,[251-500€],Oui,6,1501,dev_integral,[0 - 20k€],Minivan,Oui
+9,206,361167,Highly Urban/ Urban,[251-500€],Oui,4,6481,dev_integral,[0 - 20k€],Pickup,Oui
+4,13,108109,Highly Urban/ Urban,[251-500€],Oui,2,3497,dev_integral,[20 - 40k€],Minivan,Oui
+10,57,286806,Highly Urban/ Urban,[251-500€],Oui,8,3772,dev_integral,[20 - 40k€],Pickup,Oui
+1,31,160140,Highly Urban/ Urban,[251-500€],Oui,1,1548,dev_integral,[20 - 40k€],Sports Car,Oui
+1,27,164445,Highly Urban/ Urban,[251-500€],Oui,1,2107,dev_integral,[20 - 40k€],Van,Oui
+7,87,97618,Highly Urban/ Urban,[501-700€],Non,3,2248,dev_premium,[0 - 20k€],Minivan,Non
+12,69,153415,Highly Urban/ Urban,[501-700€],Non,1,2973,dev_premium,[20 - 40k€],Van,Non
+5,82,173444,Highly Urban/ Urban,[501-700€],Non,5,2246,dev_vip,[20 - 40k€],Panel Truck,Non
+8,20,177601,Highly Urban/ Urban,[501-700€],Oui,1,695,dev_premium,[20 - 40k€],Panel Truck,Oui
+1,75,51893,z_Highly Rural/ Rural,[251-500€],Non,7,385,dev_express,[0 - 20k€],Minivan,Non
+1,34,85406,z_Highly Rural/ Rural,[251-500€],Non,7,1102,dev_express,[0 - 20k€],Pickup,Oui
+1,14,120881,z_Highly Rural/ Rural,[251-500€],Non,6,2339,dev_express,[0 - 20k€],z_SUV,Oui
+1,69,115618,z_Highly Rural/ Rural,[251-500€],Non,1,3253,dev_express,[20 - 40k€],Minivan,Non
+7,86,129104,z_Highly Rural/ Rural,[251-500€],Non,2,3567,dev_express,[20 - 40k€],Pickup,Non
+1,73,117538,z_Highly Rural/ Rural,[251-500€],Non,2,1391,dev_integral,[0 - 20k€],Minivan,Non
+16,87,134371,z_Highly Rural/ Rural,[251-500€],Non,4,3294,dev_integral,[0 - 20k€],Pickup,Non
+7,52,96399,z_Highly Rural/ Rural,[251-500€],Non,1,2449,dev_integral,[0 - 20k€],Pickup,Oui
+5,58,68224,z_Highly Rural/ Rural,[251-500€],Non,2,3003,dev_integral,[0 - 20k€],Sports Car,Non
+4,20,80659,z_Highly Rural/ Rural,[251-500€],Non,2,3182,dev_integral,[0 - 20k€],z_SUV,Non
+4,32,98437,z_Highly Rural/ Rural,[251-500€],Non,4,2646,dev_integral,[20 - 40k€],Minivan,Non
+8,93,137836,z_Highly Rural/ Rural,[251-500€],Non,4,1224,dev_integral,[20 - 40k€],Minivan,Oui
+14,18,138910,z_Highly Rural/ Rural,[251-500€],Non,4,2112,dev_integral,[20 - 40k€],Pickup,Non
+27,168,421006,z_Highly Rural/ Rural,[251-500€],Non,5,10443,dev_integral,[20 - 40k€],z_SUV,Non
+16,18,91520,z_Highly Rural/ Rural,[251-500€],Non,2,1369,dev_premium,[0 - 20k€],z_SUV,Non
+15,140,355948,z_Highly Rural/ Rural,[251-500€],Non,3,1212,dev_premium,[20 - 40k€],z_SUV,Non
+6,56,221139,z_Highly Rural/ Rural,[251-500€],Oui,1,616,dev_express,[20 - 40k€],Van,Oui
+7,71,99799,z_Highly Rural/ Rural,[251-500€],Oui,2,2048,dev_integral,[0 - 20k€],Minivan,Oui
+1,40,170218,z_Highly Rural/ Rural,[251-500€],Oui,1,768,dev_integral,[20 - 40k€],Minivan,Oui
+1,45,185460,z_Highly Rural/ Rural,[501-700€],Non,3,2003,dev_premium,[20 - 40k€],Pickup,Non
+11,41,100508,z_Highly Rural/ Rural,[501-700€],Oui,4,3010,dev_vip,[0 - 20k€],z_SUV,Oui
+22,88,92800,z_Highly Rural/ Rural,[701-924€],Non,2,2116,dev_vip,[0 - 20k€],Van,Non
